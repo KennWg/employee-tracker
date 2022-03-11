@@ -1,4 +1,4 @@
-const db = require('./db/connection');
+const inquirer = require('inquirer');
 const promptUser = require('./src/promptUser');
 
 promptUser();
