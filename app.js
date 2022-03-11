@@ -1,4 +1,3 @@
-const inquirer = require('inquirer');
-const promptUser = require('./src/promptUser');
+const promptUser = require('./lib/promptUser');
 
 promptUser();
